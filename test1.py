@@ -1,6 +1,6 @@
 a = 'abc'
 
 def test():
-    print('test')
+    print('Test')
 
 test()

@@ -1,2 +1,3 @@
-def great():
+def greet():
     print('Hello')
+
